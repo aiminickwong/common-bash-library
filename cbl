@@ -4,6 +4,8 @@
 # This script is provided as-is; no liability can be accepted for use.
 # You are free to modify and reproduce so long as this attribution is preserved.
 
+CBL_VERSION=0.1
+
 ## ================================================
 ## CONSTANTS
 ## ================================================
